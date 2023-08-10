@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Nomenclatures": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7046",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "AZURE_FUNCTIONS_ENVIRONMENT": "Development.Local"
+      }
+    }
+  }
+}

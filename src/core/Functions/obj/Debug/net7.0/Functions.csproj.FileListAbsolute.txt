@@ -1,0 +1,17 @@
+C:\MyProjects\SampleWebAPI\src\core\Functions\bin\Debug\net7.0\Functions.deps.json
+C:\MyProjects\SampleWebAPI\src\core\Functions\bin\Debug\net7.0\Functions.dll
+C:\MyProjects\SampleWebAPI\src\core\Functions\bin\Debug\net7.0\Functions.pdb
+C:\MyProjects\SampleWebAPI\src\core\Functions\bin\Debug\net7.0\Domain.dll
+C:\MyProjects\SampleWebAPI\src\core\Functions\bin\Debug\net7.0\Domain.pdb
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.csproj.AssemblyReference.cache
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.csproj.CopyComplete
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.dll
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\refint\Functions.dll
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\Functions.pdb
+C:\MyProjects\SampleWebAPI\src\core\Functions\obj\Debug\net7.0\ref\Functions.dll
+C:\MyProjects\SampleWebAPI\src\core\Functions\bin\Debug\net7.0\Application.dll
+C:\MyProjects\SampleWebAPI\src\core\Functions\bin\Debug\net7.0\Application.pdb

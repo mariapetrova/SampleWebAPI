@@ -1,1 +1,0 @@
-Moq uses SponsorLink to properly attribute your sponsorship with devlooped. Please install the GitHub app at https://github.com/apps/sponsorlink. Build paused for 617ms. This happens only once per IDE/editor session.

@@ -15,3 +15,20 @@ C:\MyProjects\SampleWebAPI\src\nomenclatures\Nomenclatures.Application\obj\Debug
 C:\MyProjects\SampleWebAPI\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\refint\Nomenclatures.Application.dll
 C:\MyProjects\SampleWebAPI\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.pdb
 C:\MyProjects\SampleWebAPI\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\ref\Nomenclatures.Application.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\bin\Debug\net7.0\Nomenclatures.Application.deps.json
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\bin\Debug\net7.0\Nomenclatures.Application.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\bin\Debug\net7.0\Nomenclatures.Application.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\bin\Debug\net7.0\Application.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\bin\Debug\net7.0\Domain.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\bin\Debug\net7.0\Application.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\bin\Debug\net7.0\Domain.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.csproj.AssemblyReference.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.AssemblyInfoInputs.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.AssemblyInfo.cs
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.csproj.CoreCompileInputs.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.csproj.CopyComplete
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\refint\Nomenclatures.Application.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\Nomenclatures.Application.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\nomenclatures\Nomenclatures.Application\obj\Debug\net7.0\ref\Nomenclatures.Application.dll

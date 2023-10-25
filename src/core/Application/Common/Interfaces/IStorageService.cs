@@ -4,11 +4,11 @@ namespace Application.Common.Interfaces;
 public interface IStorageService
 {
     Task<string?> UploadAsync(
-        Lead lead,
+        Person person,
         string containerName,
         CancellationToken cancellationToken);
 
-    Task<Lead?> DownloadToStreamAsync(
+    Task<Person?> DownloadToStreamAsync(
         string blobName,
         string containerName,
         string localFilePath,

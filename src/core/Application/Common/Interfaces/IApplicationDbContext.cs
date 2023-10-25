@@ -5,9 +5,9 @@ namespace Application.Common.Interfaces;
 
 public interface IApplicationDbContext
 {
-    DbSet<Subarea> Subareas { get; set; }
+    DbSet<Department> Departments { get; set; }
  
-    DbSet<Lead> Leads { get; set; }
+    DbSet<Person> Persons { get; set; }
 
     Task<int> SaveChangesAsync(CancellationToken cancellationToken);
 }

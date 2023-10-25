@@ -9,9 +9,9 @@ public partial class ApplicationDbContext : DbContext, IApplicationDbContext
     {
     }
 
-    public virtual DbSet<Subarea> Subareas { get; set; }
+    public virtual DbSet<Department> Departments { get; set; }
 
-    public virtual DbSet<Lead> Leads { get; set; }
+    public virtual DbSet<Person> Persons { get; set; }
 
     public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {

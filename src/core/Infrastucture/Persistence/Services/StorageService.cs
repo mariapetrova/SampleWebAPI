@@ -20,17 +20,17 @@ public class StorageService : IStorageService
     }
 
     public async Task<string?> UploadAsync(
-        Lead lead,
+        Person person,
         string containerName,
         CancellationToken cancellationToken)
     {
-        if (lead is null)
+        if (person is null)
         {
             return null;
         }
         var containerClient = _serviceClient.GetBlobContainerClient(containerName);
 
-        var blobName = $"{lead.Name}-{lead.PINCode}";
+        var blobName = $"{person.Name}-{person.DepartmentId}";
 
         await containerClient.CreateIfNotExistsAsync(cancellationToken: cancellationToken);
 
@@ -38,18 +38,18 @@ public class StorageService : IStorageService
         var blobClient = containerClient.GetBlobClient(blobName);
 
         // Upload data
-        var json = JsonConvert.SerializeObject(lead);
-        var streamLead = new MemoryStream(Encoding.UTF8.GetBytes(json))
+        var json = JsonConvert.SerializeObject(person);
+        var streamPerson = new MemoryStream(Encoding.UTF8.GetBytes(json))
         {
             Position = 0
         };
 
-        await blobClient.UploadAsync(streamLead, overwrite: true, cancellationToken);
+        await blobClient.UploadAsync(streamPerson, overwrite: true, cancellationToken);
 
         return blobClient.Uri.ToString();
     }
 
-    public async Task<Lead?> DownloadToStreamAsync(
+    public async Task<Person?> DownloadToStreamAsync(
         string blobName,
         string containerName,
         string localFilePath,
@@ -65,15 +65,15 @@ public class StorageService : IStorageService
             await stream.CopyToAsync(fileStream, cancellationToken);
             fileStream.Close();
 
-            Lead? lead = null;
+            Person? person = null;
 
             using (StreamReader file = File.OpenText(localFilePath))
             {
                 JsonSerializer serializer = new JsonSerializer();
-                lead = (Lead)serializer.Deserialize(file, typeof(Lead));
+                person = (Person)serializer.Deserialize(file, typeof(Person));
             }
 
-            return lead;
+            return person;
         }
         catch (DirectoryNotFoundException ex)
         {

@@ -2,5 +2,5 @@
 public static class AssemblyConstants
 {
     public const string NomenclaturesAssemblyName = "Nomenclatures.Application.dll";
-    public const string LeadsAssemblyName = "Leads.Application.dll";
+    public const string PersonsAssemblyName = "Leads.Application.dll";
 }

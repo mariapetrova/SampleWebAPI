@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\SampleWebAPI\\src\\core\\Functions\\Functions.csproj": {}
+    "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Functions\\Functions.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\SampleWebAPI\\src\\core\\Application\\Application.csproj": {
+    "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Application\\Application.csproj",
+        "projectPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\madimitrova\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Application\\obj\\",
+        "outputPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj"
+              "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj": {
+    "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj",
+        "projectPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\madimitrova\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\obj\\",
+        "outputPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\MyProjects\\SampleWebAPI\\src\\core\\Functions\\Functions.csproj": {
+    "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Functions\\Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Functions\\Functions.csproj",
+        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Functions\\Functions.csproj",
         "projectName": "Functions",
-        "projectPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Functions\\Functions.csproj",
+        "projectPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Functions\\Functions.csproj",
         "packagesPath": "C:\\Users\\madimitrova\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Functions\\obj\\",
+        "outputPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Functions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -203,11 +203,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\MyProjects\\SampleWebAPI\\src\\core\\Application\\Application.csproj": {
-                "projectPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Application\\Application.csproj"
+              "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Application\\Application.csproj": {
+                "projectPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Application\\Application.csproj"
               },
-              "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj"
+              "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj"
               }
             }
           }

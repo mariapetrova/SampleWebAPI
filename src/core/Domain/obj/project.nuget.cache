@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnSqOdfEB+E34y9/2TtUl1rBJi+sw6x2i1fDbFtfiAdRcIdgg+I6C5ayCe9SpEUdnBa2bRrNThvpDBCYnfcV7g==",
+  "dgSpecHash": "aadnT5GOMPyPnB3w0PXtsmlSosE0v50BfnJaTTKOZMpmBcpL1AEev7WFDlZzJgE4gk4C9VISqmZK4h/awgggGQ==",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\madimitrova\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\madimitrova\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

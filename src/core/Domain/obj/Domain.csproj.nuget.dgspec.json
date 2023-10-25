@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj": {}
+    "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj": {
+    "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\Domain.csproj",
+        "projectPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\madimitrova\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\SampleWebAPI\\src\\core\\Domain\\obj\\",
+        "outputPath": "C:\\MyProjects\\SampleWebAPI - Copy (3)\\src\\core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,9 +1,9 @@
 ﻿namespace Application.Validations;
 public static class ValidationConstants
 {
-    public const string SubareaNotFound = "Subarea not found.";
+    public const string DepartmentNotFound = "Department not found.";
 
-    public const string LeadNotFound = "Lead not found.";
+    public const string PersonNotFound = "Person not found.";
 
     public const string EmailAddressRegex = @"^[A-Za-z0-9][A-Za-z0-9._%+-]*@(?:(?=[A-Za-z0-9-]{2,63}\.)[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*\.){1,8}[A-Za-z]{2,63}$";
 

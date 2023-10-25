@@ -10,3 +10,15 @@ C:\MyProjects\SampleWebAPI\src\core\Domain\obj\Debug\net7.0\Domain.dll
 C:\MyProjects\SampleWebAPI\src\core\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\MyProjects\SampleWebAPI\src\core\Domain\obj\Debug\net7.0\Domain.pdb
 C:\MyProjects\SampleWebAPI\src\core\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\bin\Debug\net7.0\Domain.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\bin\Debug\net7.0\Domain.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\Domain.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\Domain.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Domain\obj\Debug\net7.0\ref\Domain.dll

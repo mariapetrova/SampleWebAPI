@@ -15,3 +15,20 @@ C:\MyProjects\SampleWebAPI\src\core\Infrastucture\obj\Debug\net7.0\Infrastructur
 C:\MyProjects\SampleWebAPI\src\core\Infrastucture\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\MyProjects\SampleWebAPI\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.pdb
 C:\MyProjects\SampleWebAPI\src\core\Infrastucture\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\bin\Debug\net7.0\Infrastructure.deps.json
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\bin\Debug\net7.0\Infrastructure.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\bin\Debug\net7.0\Infrastructure.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\bin\Debug\net7.0\Application.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\bin\Debug\net7.0\Domain.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\bin\Debug\net7.0\Application.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\bin\Debug\net7.0\Domain.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\Infrastructure.pdb
+C:\MyProjects\SampleWebAPI - Copy (3)\src\core\Infrastucture\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -31,7 +31,7 @@ var host = new HostBuilder()
     .ConfigureServices((context, services) =>
     {
         services.AddFunctionContextAccessor();
-        services.AddApplicationServices(Assembly.LoadFrom(AssemblyConstants.LeadsAssemblyName));
+        services.AddApplicationServices(Assembly.LoadFrom(AssemblyConstants.PersonsAssemblyName));
         services.AddInfrastructureServices(context.Configuration);
 
         services.AddOpenApiConfigurationOptions();
